@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+|Activity|Most Used Languages|
+|:---:|:---:|
+|![](https://github-readme-stats.vercel.app/api?username=x86taka&show_icons=true&theme=tokyonight&count_private=true&line_height=40)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=x86taka&theme=tokyonight&langs_count=10)|
 <!--
 **x86taka/x86taka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
